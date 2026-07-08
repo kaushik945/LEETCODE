@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushik945/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/kaushik945/LEETCODE/tree/master/0146-lru-cache) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaushik945/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kaushik945/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/kaushik945/LEETCODE/tree/master/0146-lru-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kaushik945/LEETCODE/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kaushik945/LEETCODE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
