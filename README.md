@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kaushik945/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/kaushik945/LEETCODE/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/kaushik945/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2081-sum-of-k-mirror-numbers](https://github.com/kaushik945/LEETCODE/tree/master/2081-sum-of-k-mirror-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kaushik945/LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
