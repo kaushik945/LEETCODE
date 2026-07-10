@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushik945/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/kaushik945/LEETCODE/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/kaushik945/LEETCODE/tree/master/0202-happy-number) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushik945/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kaushik945/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [0647-palindromic-substrings](https://github.com/kaushik945/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaushik945/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/kaushik945/LEETCODE/tree/master/2047-number-of-valid-words-in-a-sentence) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0283-move-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0283-move-zeroes) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [1288-remove-covered-intervals](https://github.com/kaushik945/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kaushik945/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaushik945/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
