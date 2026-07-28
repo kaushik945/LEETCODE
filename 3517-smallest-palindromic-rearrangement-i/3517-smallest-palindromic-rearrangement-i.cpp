@@ -8,12 +8,12 @@ public:
         for(int i = 0; i < n; i++){
             freq[s[i]-'a']++;
         }
-        for(int i = 0; i < n; i++){
-            if(freq[s[i]-'a']%2) odd = i;
+        for(int i = 0; i < 26; i++){
+            if(freq[i]%2) odd = i;
         }
         if(n%2){
-            ans[n/2] = s[odd];
-            freq[s[odd]-'a']--;
+            ans[n/2] = odd+'a';
+            freq[odd]--;
         }
         for(int i = 0; i < n/2; i++){
             for(int j = 0; j < 26; j++){
