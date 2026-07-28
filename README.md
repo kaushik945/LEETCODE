@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaushik945/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/kaushik945/LEETCODE/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kaushik945/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kaushik945/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kaushik945/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/kaushik945/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushik945/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kaushik945/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kaushik945/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaushik945/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kaushik945/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaushik945/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kaushik945/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
