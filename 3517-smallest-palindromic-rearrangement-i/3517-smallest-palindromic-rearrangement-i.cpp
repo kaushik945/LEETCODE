@@ -9,7 +9,8 @@ public:
             freq[s[i]-'a']++;
         }
         for(int i = 0; i < 26; i++){
-            if(freq[i]%2) odd = i;
+            if(freq[i]%2)
+                odd = i;
         }
         if(n%2){
             ans[n/2] = odd+'a';
