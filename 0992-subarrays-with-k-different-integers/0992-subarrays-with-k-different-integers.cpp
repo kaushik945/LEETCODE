@@ -8,7 +8,7 @@ public:
         int maxlen = 0;
         while(j < n){
             freq[nums[j]]++;
-            while(freq.size() > k && i <= j){
+            while(freq.size() > k ){
                 freq[nums[i]]--;
                 if(freq[nums[i]] == 0) freq.erase(nums[i]);
                 i++;
