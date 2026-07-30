@@ -2,7 +2,7 @@ class Solution {
 public:
     int atmost(int k,vector<int>& nums){
         int n = nums.size();
-        map<int,int> freq;
+        unordered_map<int,int> freq;
         int i = 0,j = 0;
         int maxlen = 0;
         while(j < n){
