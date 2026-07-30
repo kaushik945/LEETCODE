@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushik945/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/kaushik945/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaushik945/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/kaushik945/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushik945/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1004-max-consecutive-ones-iii](https://github.com/kaushik945/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/kaushik945/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushik945/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kaushik945/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kaushik945/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaushik945/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kaushik945/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kaushik945/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kaushik945/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaushik945/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kaushik945/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
