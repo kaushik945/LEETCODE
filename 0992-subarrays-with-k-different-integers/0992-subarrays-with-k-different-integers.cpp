@@ -6,7 +6,7 @@ public:
         for(int r = 0;r<nums.size();r++) {
             if(Count[nums[r]] == 0) Distinct++;
             Count[nums[r]]++;
-            while(Distinct > k && l <= r) {
+            while(Distinct > k) {
                 Count[nums[l]]--;
                 if(Count[nums[l]] == 0) Distinct--;
                 l++;
