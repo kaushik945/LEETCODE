@@ -1,6 +1,7 @@
 class Solution {
 public:
     int atmost(int k,vector<int>& nums){
+        if (k < 0) return 0;
         int n = nums.size();
         unordered_map<int,int> freq;
         int i = 0,j = 0;
