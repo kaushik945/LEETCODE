@@ -1,25 +1,21 @@
 class Solution {
 public:
-    int atmost(int k,vector<int>& nums){
-        if (k < 0) return 0;
-        int n = nums.size();
-        unordered_map<int,int> freq;
-        int i = 0,j = 0;
-        int maxlen = 0;
-        while(j < n){
-            freq[nums[j]]++;
-            while(freq.size() > k&& i <= j){
-                int x = nums[i];
-                freq[x]--;
-                if(freq[x] == 0) freq.erase(x);
-                i++;
+    int Subarrays(vector<int>& nums, int k) {
+        vector<int> Count(nums.size()+1,0);
+        int Distinct = 0,l = 0,Ans = 0;
+        for(int r = 0;r<nums.size();r++) {
+            if(Count[nums[r]] == 0) Distinct++;
+            Count[nums[r]]++;
+            while(Distinct > k && l <= r) {
+                Count[nums[l]]--;
+                if(Count[nums[l]] == 0) Distinct--;
+                l++;
             }
-            maxlen += j-i+1;
-            j++;
+            Ans += r-l+1;
         }
-        return maxlen;
+        return Ans;
     }
     int subarraysWithKDistinct(vector<int>& nums, int k) {
-        return atmost(k,nums)-atmost(k-1,nums);
+        return Subarrays(nums,k)-Subarrays(nums,k-1);
     }
 };
