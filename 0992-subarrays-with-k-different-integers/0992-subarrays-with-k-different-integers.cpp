@@ -8,9 +8,10 @@ public:
         int maxlen = 0;
         while(j < n){
             freq[nums[j]]++;
-            while(freq.size() > k ){
-                freq[nums[i]]--;
-                if(freq[nums[i]] == 0) freq.erase(nums[i]);
+            while(freq.size() > k&& i <= j){
+                int x = nums[i];
+                freq[x]--;
+                if(freq[x] == 0) freq.erase(x);
                 i++;
             }
             maxlen += j-i+1;
