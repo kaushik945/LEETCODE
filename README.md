@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kaushik945/LEETCODE/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kaushik945/LEETCODE/tree/master/0055-jump-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kaushik945/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/kaushik945/LEETCODE/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushik945/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/kaushik945/LEETCODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0283-move-zeroes) |
