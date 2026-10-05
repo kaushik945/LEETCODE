@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/kaushik945/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kaushik945/LEETCODE/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/kaushik945/LEETCODE/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kaushik945/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushik945/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kaushik945/LEETCODE/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0054-spiral-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kaushik945/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Design
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kaushik945/LEETCODE/tree/master/0043-multiply-strings) |
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/kaushik945/LEETCODE/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaushik945/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
