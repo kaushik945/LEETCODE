@@ -10,10 +10,16 @@ public:
             return;
         }
 
-        if (target < 0 || i < 0)
+        if (i < 0 || target < 0)
             return;
 
-        // TAKE arr[i]
+        // arr[i] is too large, can't take it
+        if (arr[i] > target) {
+            solve(i - 1, target, temp, arr, ans);
+            return;
+        }
+
+        // TAKE
         temp.push_back(arr[i]);
 
         solve(i - 1,
@@ -24,8 +30,8 @@ public:
 
         temp.pop_back();
 
-        // DON'T TAKE arr[i]
-        // Skip all duplicates of arr[i]
+        // DON'T TAKE
+        // Skip duplicate values
         int j = i - 1;
 
         while (j >= 0 && arr[j] == arr[i])
