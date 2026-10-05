@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0031-next-permutation](https://github.com/kaushik945/LEETCODE/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/kaushik945/LEETCODE/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/kaushik945/LEETCODE/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kaushik945/LEETCODE/tree/master/0055-jump-game) |
@@ -294,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0856-score-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/kaushik945/LEETCODE/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
