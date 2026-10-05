@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaushik945/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/kaushik945/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kaushik945/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/kaushik945/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kaushik945/LEETCODE/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/kaushik945/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kaushik945/LEETCODE/tree/master/0055-jump-game) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kaushik945/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0054-spiral-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
