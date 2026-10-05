@@ -1,8 +1,6 @@
 class Solution {
 public:
-    void solve(int i, int target,
-               vector<int>& temp,
-               vector<int>& arr,
+    void solve(int i, int target, vector<int>& temp, vector<int>& arr,
                vector<vector<int>>& ans) {
 
         if (target == 0) {
@@ -14,22 +12,15 @@ public:
             return;
 
         // arr[i] is too large, can't take it
-        if (arr[i] > target) {
-            solve(i - 1, target, temp, arr, ans);
-            return;
-        }
 
         // TAKE
-        temp.push_back(arr[i]);
+        if (arr[i] <= target) {
+            temp.push_back(arr[i]);
 
-        solve(i - 1,
-              target - arr[i],
-              temp,
-              arr,
-              ans);
+            solve(i - 1, target - arr[i], temp, arr, ans);
 
-        temp.pop_back();
-
+            temp.pop_back();
+        }
         // DON'T TAKE
         // Skip duplicate values
         int j = i - 1;
@@ -37,11 +28,7 @@ public:
         while (j >= 0 && arr[j] == arr[i])
             j--;
 
-        solve(j,
-              target,
-              temp,
-              arr,
-              ans);
+        solve(j, target, temp, arr, ans);
     }
 
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
@@ -51,11 +38,7 @@ public:
         vector<vector<int>> ans;
         vector<int> temp;
 
-        solve(candidates.size() - 1,
-              target,
-              temp,
-              candidates,
-              ans);
+        solve(candidates.size() - 1, target, temp, candidates, ans);
 
         return ans;
     }
