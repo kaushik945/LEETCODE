@@ -1,7 +1,7 @@
 class Solution {
 public:
     void solve(int i, int target,
-               vector<int> temp,
+               vector<int>& temp,
                vector<int>& arr,
                vector<vector<int>>& ans) {
 
@@ -12,17 +12,6 @@ public:
 
         if (target < 0 || i < 0)
             return;
-
-        if (i == 0) {
-            if (target % arr[0] == 0) {
-                for (int j = 0; j < target / arr[0]; j++) {
-                    temp.push_back(arr[0]);
-                }
-
-                ans.push_back(temp);
-            }
-            return;
-        }
 
         // Take arr[i]
         if (arr[i] <= target) {
@@ -39,10 +28,10 @@ public:
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
-
+    vector<int> temp;
         solve(candidates.size() - 1,
               target,
-              {},
+              temp,
               candidates,
               ans);
 
