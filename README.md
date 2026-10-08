@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/kaushik945/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kaushik945/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kaushik945/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kaushik945/LEETCODE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaushik945/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaushik945/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kaushik945/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/kaushik945/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kaushik945/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/kaushik945/LEETCODE/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kaushik945/LEETCODE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushik945/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kaushik945/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushik945/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kaushik945/LEETCODE/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kaushik945/LEETCODE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushik945/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kaushik945/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kaushik945/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/kaushik945/LEETCODE/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaushik945/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kaushik945/LEETCODE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kaushik945/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kaushik945/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaushik945/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
