@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/kaushik945/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kaushik945/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kaushik945/LEETCODE/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/kaushik945/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kaushik945/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0283-move-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0283-move-zeroes) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/kaushik945/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kaushik945/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/kaushik945/LEETCODE/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kaushik945/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kaushik945/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Design
 |  |
