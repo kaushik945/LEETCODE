@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/kaushik945/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kaushik945/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/kaushik945/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/kaushik945/LEETCODE/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kaushik945/LEETCODE/tree/master/0055-jump-game) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/kaushik945/LEETCODE/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushik945/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kaushik945/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -328,5 +330,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/kaushik945/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kaushik945/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/kaushik945/LEETCODE/tree/master/0047-permutations-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
