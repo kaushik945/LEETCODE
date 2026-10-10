@@ -23,7 +23,7 @@ public:
             down--;
 
             // move down to top, col = left fixed
-            for (int r = down; r >= top && currElement <= n * n; r--)
+            for (int r = down; r >= top ; r--)
                 matrix[r][left] = currElement++;
             left++;
         }
