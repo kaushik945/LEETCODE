@@ -13,8 +13,9 @@ public:
                 ans.back()[1] = maxi;
             }else{
                 ans.push_back({intervals[i][0],intervals[i][1]});
+                maxi = intervals[i][1];
             }
-            maxi = max(maxi,intervals[i][1]);
+            
         }
         
         return ans;
