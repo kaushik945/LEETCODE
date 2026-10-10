@@ -18,7 +18,7 @@ public:
             right--;
 
             // move right to left, row = down fixed
-            for (int c = right; c >= left && currElement <= n * n; c--)
+            for (int c = right; c >= left ; c--)
                 matrix[down][c] = currElement++;
             down--;
 
