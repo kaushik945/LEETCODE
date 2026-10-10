@@ -8,12 +8,12 @@ public:
 
         while (currElement <= n * n) {
             // move left to right, row = top fixed
-            for (int c = left; c <= right && currElement <= n * n; c++)
+            for (int c = left; c <= right ; c++)
                 matrix[top][c] = currElement++;
             top++;
 
             // move top to down, col = right fixed
-            for (int r = top; r <= down && currElement <= n * n; r++)
+            for (int r = top; r <= down ; r++)
                 matrix[r][right] = currElement++;
             right--;
 
