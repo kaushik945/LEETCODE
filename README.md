@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/kaushik945/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kaushik945/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/kaushik945/LEETCODE/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/kaushik945/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushik945/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/kaushik945/LEETCODE/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/kaushik945/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/kaushik945/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0068-text-justification](https://github.com/kaushik945/LEETCODE/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/kaushik945/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0283-move-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0283-move-zeroes) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/kaushik945/LEETCODE/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kaushik945/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/kaushik945/LEETCODE/tree/master/0068-text-justification) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kaushik945/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Design
 |  |
