@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0068-text-justification](https://github.com/kaushik945/LEETCODE/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/kaushik945/LEETCODE/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/kaushik945/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/kaushik945/LEETCODE/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushik945/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0068-text-justification](https://github.com/kaushik945/LEETCODE/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kaushik945/LEETCODE/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/kaushik945/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0283-move-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0283-move-zeroes) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/kaushik945/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kaushik945/LEETCODE/tree/master/0079-word-search) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kaushik945/LEETCODE/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaushik945/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/kaushik945/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/kaushik945/LEETCODE/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/kaushik945/LEETCODE/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/kaushik945/LEETCODE/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 ## Quicksort
 |  |
