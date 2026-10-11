@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void func(int start,int k,int n,vector<int> temp,vector<vector<int>> &ans){
+    void func(int start,int k,int n,vector<int> &temp,vector<vector<int>> &ans){
         if(temp.size() == k){
             ans.push_back(temp);
             return;
@@ -15,8 +15,8 @@ public:
     }
     vector<vector<int>> combine(int n, int k) {
         vector<vector<int>> ans;
-
-        func(1,k,n,{},ans);
+        vector<int> temp;
+        func(1,k,n,temp,ans);
         return ans;
     }
 };
