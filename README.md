@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/kaushik945/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kaushik945/LEETCODE/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/kaushik945/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/kaushik945/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kaushik945/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0283-move-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0283-move-zeroes) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/kaushik945/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kaushik945/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/kaushik945/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/kaushik945/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/kaushik945/LEETCODE/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/kaushik945/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/kaushik945/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
