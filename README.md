@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/kaushik945/LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kaushik945/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/kaushik945/LEETCODE/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/kaushik945/LEETCODE/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/kaushik945/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushik945/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/kaushik945/LEETCODE/tree/master/0071-simplify-path) |
 | [0856-score-of-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaushik945/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
