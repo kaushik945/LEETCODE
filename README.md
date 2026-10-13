@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kaushik945/LEETCODE/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaushik945/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaushik945/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kaushik945/LEETCODE/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaushik945/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaushik945/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -387,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kaushik945/LEETCODE/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaushik945/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaushik945/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
