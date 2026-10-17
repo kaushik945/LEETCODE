@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/kaushik945/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kaushik945/LEETCODE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaushik945/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kaushik945/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaushik945/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kaushik945/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kaushik945/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2333-minimum-sum-of-squared-difference](https://github.com/kaushik945/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kaushik945/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kaushik945/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kaushik945/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaushik945/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaushik945/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -412,4 +414,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kaushik945/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kaushik945/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kaushik945/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
