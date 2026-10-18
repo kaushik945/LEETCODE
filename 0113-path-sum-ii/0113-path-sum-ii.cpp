@@ -1,35 +1,37 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-        vector<vector<int>> ans;
-        if(!root) return ans;
-
-        queue<pair<pair<TreeNode*, int>, vector<int>>> q;
-        q.push({{root, root->val}, {root->val}});
-
-        while(!q.empty()){
-            auto [p, path] = q.front();
-            q.pop();
-
-            auto [top, sum] = p;
-
-            if(sum == targetSum && !top->left && !top->right){
-                ans.push_back(path);
+    void pathSumUtil(TreeNode* root, vector<vector<int>> &res, vector<int> &v, int targetSum){
+        
+        if(!root) return;
+        v.push_back(root->val);
+        if(!root->left and !root->right){
+            if(root->val == targetSum){
+                
+                res.push_back(v);
+                
             }
-
-            if(top->left){
-                vector<int> temp = path;
-                temp.push_back(top->left->val);
-                q.push({{top->left, sum + top->left->val}, temp});
-            }
-
-            if(top->right){
-                vector<int> temp = path;
-                temp.push_back(top->right->val);
-                q.push({{top->right, sum + top->right->val}, temp});
-            }
+            
         }
-
-        return ans;
+        
+        pathSumUtil(root->left, res, v, targetSum - root->val);
+        pathSumUtil(root->right, res, v, targetSum - root->val);
+        v.pop_back();
+    }
+    vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
+        vector<vector<int>> res;
+        vector<int> v;
+        pathSumUtil(root, res, v, targetSum);
+        return res;
     }
 };
