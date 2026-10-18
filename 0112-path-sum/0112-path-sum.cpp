@@ -12,16 +12,10 @@
 class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if(!root) return false;
-        queue<pair<TreeNode*,int>> q;
-        q.push({root,root->val});
-        while(!q.empty()){
-            auto [top,sum] = q.front();
-            q.pop();
-            if(sum == targetSum && (!top->left && !top->right)) return true;
-            if(top->left) q.push({top->left,sum+top->left->val});
-            if(top->right) q.push({top->right,sum+top->right->val});
-        }
-        return false;
+        if(root == nullptr) return false;
+        if(root->left == nullptr && root->right == nullptr) return root->val == targetSum;
+        bool leftAns = hasPathSum(root->left, targetSum - root->val);
+        bool rightAns = hasPathSum(root->right, targetSum - root->val);
+        return leftAns || rightAns;
     }
 };
