@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaushik945/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaushik945/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kaushik945/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/kaushik945/LEETCODE/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kaushik945/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0283-move-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0283-move-zeroes) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0091-decode-ways](https://github.com/kaushik945/LEETCODE/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/kaushik945/LEETCODE/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/kaushik945/LEETCODE/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/kaushik945/LEETCODE/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/kaushik945/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
