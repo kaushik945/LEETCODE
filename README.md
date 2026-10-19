@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/kaushik945/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kaushik945/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kaushik945/LEETCODE/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kaushik945/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaushik945/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/kaushik945/LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kaushik945/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kaushik945/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kaushik945/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaushik945/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0086-partition-list](https://github.com/kaushik945/LEETCODE/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/kaushik945/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kaushik945/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kaushik945/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/kaushik945/LEETCODE/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/kaushik945/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/kaushik945/LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kaushik945/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kaushik945/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kaushik945/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/kaushik945/LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kaushik945/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kaushik945/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kaushik945/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
