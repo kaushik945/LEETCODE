@@ -1,40 +1,41 @@
-/*
-// Definition for a Node.
-class Node {
-public:
-    int val;
-    Node* left;
-    Node* right;
-    Node* next;
-
-    Node() : val(0), left(NULL), right(NULL), next(NULL) {}
-
-    Node(int _val) : val(_val), left(NULL), right(NULL), next(NULL) {}
-
-    Node(int _val, Node* _left, Node* _right, Node* _next)
-        : val(_val), left(_left), right(_right), next(_next) {}
-};
-*/
-
 class Solution {
 public:
-    Node* connect(Node* root) {
-        if(!root) return nullptr;
-        queue<Node*> q;
-        q.push(root);
-        while(!q.empty()){
-            int lvl = q.size();
-            for(int i = 0; i < lvl; i++){
-                Node* top = q.front();
-                q.pop();
-                if(i < lvl - 1){
-                    top->next = q.front();
-                }else{
-                    top->next = nullptr;
+    Node* connect(Node *root) {
+        Node *head = nullptr; // Head of the next level
+        Node *prev = nullptr; // Last connected child
+        Node *cur = root;     // Current node
+
+        while (cur != nullptr) {
+            while (cur != nullptr) {
+
+                // Connect the left child
+                if (cur->left != nullptr) {
+                    if (prev != nullptr) {
+                        prev->next = cur->left;
+                    } else {
+                        head = cur->left;
+                    }
+                    prev = cur->left;
                 }
-                if(top->left) q.push(top->left);
-                if(top->right) q.push(top->right);
+
+                // Connect the right child
+                if (cur->right != nullptr) {
+                    if (prev != nullptr) {
+                        prev->next = cur->right;
+                    } else {
+                        head = cur->right;
+                    }
+                    prev = cur->right;
+                }
+
+                // Move to the next node at the current level
+                cur = cur->next;
             }
+
+            // Move to the next level
+            cur = head;
+            head = nullptr;
+            prev = nullptr;
         }
         return root;
     }
