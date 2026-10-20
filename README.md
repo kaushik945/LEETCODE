@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/kaushik945/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/kaushik945/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kaushik945/LEETCODE/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/kaushik945/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushik945/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/kaushik945/LEETCODE/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kaushik945/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaushik945/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/kaushik945/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/kaushik945/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/kaushik945/LEETCODE/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/kaushik945/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/kaushik945/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/kaushik945/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 ## Quicksort
 |  |
