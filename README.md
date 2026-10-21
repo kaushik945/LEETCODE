@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/kaushik945/LEETCODE/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/kaushik945/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kaushik945/LEETCODE/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/kaushik945/LEETCODE/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/kaushik945/LEETCODE/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/kaushik945/LEETCODE/tree/master/0202-happy-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/kaushik945/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kaushik945/LEETCODE/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/kaushik945/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/kaushik945/LEETCODE/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kaushik945/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/kaushik945/LEETCODE/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kaushik945/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/kaushik945/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/kaushik945/LEETCODE/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0283-move-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaushik945/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kaushik945/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaushik945/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/kaushik945/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/kaushik945/LEETCODE/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/kaushik945/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -511,4 +515,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/kaushik945/LEETCODE/tree/master/0127-word-ladder) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kaushik945/LEETCODE/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kaushik945/LEETCODE/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kaushik945/LEETCODE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
