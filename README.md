@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/kaushik945/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/kaushik945/LEETCODE/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kaushik945/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaushik945/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/kaushik945/LEETCODE/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/kaushik945/LEETCODE/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kaushik945/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/kaushik945/LEETCODE/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaushik945/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushik945/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/kaushik945/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kaushik945/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/kaushik945/LEETCODE/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kaushik945/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0856-score-of-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaushik945/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
