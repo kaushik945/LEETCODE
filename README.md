@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/kaushik945/LEETCODE/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaushik945/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/kaushik945/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaushik945/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaushik945/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/kaushik945/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kaushik945/LEETCODE/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/kaushik945/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/kaushik945/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
