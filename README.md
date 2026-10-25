@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/kaushik945/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaushik945/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kaushik945/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/kaushik945/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/kaushik945/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kaushik945/LEETCODE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/kaushik945/LEETCODE/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/kaushik945/LEETCODE/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/kaushik945/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaushik945/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kaushik945/LEETCODE/tree/master/0079-word-search) |
+| [1254-number-of-closed-islands](https://github.com/kaushik945/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -245,11 +248,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaushik945/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kaushik945/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/kaushik945/LEETCODE/tree/master/0133-clone-graph) |
+| [1254-number-of-closed-islands](https://github.com/kaushik945/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaushik945/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kaushik945/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/kaushik945/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaushik945/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kaushik945/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
