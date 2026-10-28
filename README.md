@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kaushik945/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3620-network-recovery-pathways](https://github.com/kaushik945/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kaushik945/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/kaushik945/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kaushik945/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Breadth-First Search
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1254-number-of-closed-islands](https://github.com/kaushik945/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaushik945/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaushik945/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kaushik945/LEETCODE/tree/master/3620-network-recovery-pathways) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kaushik945/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaushik945/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
