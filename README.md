@@ -565,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kaushik945/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/kaushik945/LEETCODE/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
