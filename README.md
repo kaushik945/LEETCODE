@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/kaushik945/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaushik945/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/kaushik945/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/kaushik945/LEETCODE/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaushik945/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushik945/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
