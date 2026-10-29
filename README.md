@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kaushik945/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/kaushik945/LEETCODE/tree/master/0202-happy-number) |
 ## Database
 |  |
 | ------- |
