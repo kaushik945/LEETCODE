@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/kaushik945/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/kaushik945/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/kaushik945/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0212-word-search-ii](https://github.com/kaushik945/LEETCODE/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/kaushik945/LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/kaushik945/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kaushik945/LEETCODE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaushik945/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/kaushik945/LEETCODE/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaushik945/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kaushik945/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kaushik945/LEETCODE/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/kaushik945/LEETCODE/tree/master/0212-word-search-ii) |
 | [1254-number-of-closed-islands](https://github.com/kaushik945/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0093-restore-ip-addresses](https://github.com/kaushik945/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/kaushik945/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/kaushik945/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/kaushik945/LEETCODE/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 ## Quicksort
 |  |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kaushik945/LEETCODE/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/kaushik945/LEETCODE/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
