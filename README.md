@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaushik945/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/kaushik945/LEETCODE/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/kaushik945/LEETCODE/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/kaushik945/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/kaushik945/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaushik945/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaushik945/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kaushik945/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/kaushik945/LEETCODE/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/kaushik945/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [1254-number-of-closed-islands](https://github.com/kaushik945/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaushik945/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaushik945/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaushik945/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kaushik945/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/kaushik945/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaushik945/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaushik945/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kaushik945/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/kaushik945/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
