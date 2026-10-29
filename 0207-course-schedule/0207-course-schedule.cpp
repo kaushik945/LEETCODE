@@ -1,39 +1,37 @@
 
 class Solution {
 public:
-    bool dfs(int u, vector<vector<int>>& adj, vector<int>& vis, vector<int>& pathVis) {
-        vis[u] = 1;
-        pathVis[u] = 1;
-
-        for(auto v : adj[u]) {
-            if(!vis[v]) {
-                if(!dfs(v, adj, vis, pathVis))
-                    return false;
-            }
-            else if(pathVis[v]) {
-                return false;
-            }
-        }
-
-        pathVis[u] = 0;
-        return true;
-    }
-
     bool canFinish(int n, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(n);
-        vector<int> vis(n, 0), pathVis(n, 0);
+        vector<int> indegree(n, 0);
 
         for(auto &p : prerequisites) {
-            adj[p[0]].push_back(p[1]);
+            adj[p[1]].push_back(p[0]);
+            indegree[p[0]]++;
         }
 
+        queue<int> q;
+
         for(int i = 0; i < n; i++) {
-            if(!vis[i]) {
-                if(!dfs(i, adj, vis, pathVis))
-                    return false;
+            if(indegree[i] == 0)
+                q.push(i);
+        }
+
+        int cnt = 0;
+
+        while(!q.empty()) {
+            int u = q.front();
+            q.pop();
+            cnt++;
+
+            for(auto v : adj[u]) {
+                indegree[v]--;
+
+                if(indegree[v] == 0)
+                    q.push(v);
             }
         }
 
-        return true;
+        return cnt == n;
     }
 };
