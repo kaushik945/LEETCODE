@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/kaushik945/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/kaushik945/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0212-word-search-ii](https://github.com/kaushik945/LEETCODE/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/kaushik945/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/kaushik945/LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -614,14 +615,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kaushik945/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/kaushik945/LEETCODE/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kaushik945/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/kaushik945/LEETCODE/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kaushik945/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/kaushik945/LEETCODE/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -642,4 +646,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kaushik945/LEETCODE/tree/master/0207-course-schedule) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kaushik945/LEETCODE/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kaushik945/LEETCODE/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kaushik945/LEETCODE/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
