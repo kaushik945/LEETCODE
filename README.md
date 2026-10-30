@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/kaushik945/LEETCODE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaushik945/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/kaushik945/LEETCODE/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/kaushik945/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaushik945/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/kaushik945/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/kaushik945/LEETCODE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kaushik945/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0213-house-robber-ii](https://github.com/kaushik945/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/kaushik945/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
