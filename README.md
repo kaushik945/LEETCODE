@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/kaushik945/LEETCODE/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/kaushik945/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaushik945/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kaushik945/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kaushik945/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kaushik945/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kaushik945/LEETCODE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/kaushik945/LEETCODE/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/kaushik945/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/kaushik945/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kaushik945/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1254-number-of-closed-islands](https://github.com/kaushik945/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaushik945/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/kaushik945/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaushik945/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kaushik945/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kaushik945/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1254-number-of-closed-islands](https://github.com/kaushik945/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaushik945/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kaushik945/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/kaushik945/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaushik945/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kaushik945/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kaushik945/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kaushik945/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/kaushik945/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaushik945/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kaushik945/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kaushik945/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -612,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaushik945/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kaushik945/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -698,9 +704,11 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaushik945/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kaushik945/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kaushik945/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaushik945/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kaushik945/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kaushik945/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
