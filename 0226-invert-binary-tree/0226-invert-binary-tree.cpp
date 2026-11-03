@@ -10,18 +10,16 @@
  * };
  */
 class Solution {
-    TreeNode* invert(TreeNode* root){
+    
+public:
+    TreeNode* invertTree(TreeNode* root) {
         if(root == nullptr){
             return nullptr;
         }
-        TreeNode* leftChild = invert(root->left);
-        TreeNode* rightChild = invert(root->right);
+        TreeNode* leftChild = invertTree(root->left);
+        TreeNode* rightChild = invertTree(root->right);
         root->left = rightChild;
         root->right = leftChild;
         return root;
-    }
-public:
-    TreeNode* invertTree(TreeNode* root) {
-        return invert(root);
     }
 };
