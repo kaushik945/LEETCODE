@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/kaushik945/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaushik945/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kaushik945/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/kaushik945/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kaushik945/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaushik945/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kaushik945/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/kaushik945/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/kaushik945/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kaushik945/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/kaushik945/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaushik945/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kaushik945/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kaushik945/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaushik945/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/kaushik945/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushik945/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kaushik945/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kaushik945/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kaushik945/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/kaushik945/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -728,4 +732,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaushik945/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kaushik945/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kaushik945/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kaushik945/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kaushik945/LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
