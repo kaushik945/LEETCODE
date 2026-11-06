@@ -11,7 +11,7 @@ public:
                 dq.pop_back();
             dq.push_back(i);
             if (i >= k - 1)
-                ans[i - k + 1] = dq.empty() ? -1 : nums[dq.front()];
+                ans[i - k + 1] = nums[dq.front()];
         }
         return ans;
     }
