@@ -1,33 +1,57 @@
+
 class Solution {
 public:
     vector<int> assignTasks(vector<int>& servers, vector<int>& tasks) {
+        using ll = long long;
         using pii = pair<int, int>;
-        using arr3 = array<long long, 3>;
-        priority_queue<pii, vector<pii>, greater<pii>> free;
-        priority_queue<arr3, vector<arr3>, greater<arr3>> busy;
-        for (int i = 0; i < (int)servers.size(); ++i) {
-            free.push({servers[i], i});
-        }
+        using busyServer = tuple<ll, int, int>;
+
+        priority_queue<pii, vector<pii>, greater<pii>> available;
+
+        priority_queue<busyServer, vector<busyServer>,
+                       greater<busyServer>> busy;
+
+        int n = servers.size();
         int m = tasks.size();
-        vector<int> ans(m);
-        for (int j = 0; j < m; ++j) {
-            while (!busy.empty() && busy.top()[0] <= j) {
-                auto [_, w, i] = busy.top();
-                busy.pop();
-                free.push({(int)w, (int)i});
-            }
-            if (!free.empty()) {
-                auto [w, i] = free.top();
-                free.pop();
-                ans[j] = i;
-                busy.push({(long long)j + tasks[j], w, i});
-            } else {
-                auto [ft, w, i] = busy.top();
-                busy.pop();
-                ans[j] = (int)i;
-                busy.push({ft + tasks[j], w, i});
-            }
+
+        for (int i = 0; i < n; i++) {
+            available.push({servers[i], i});
         }
+
+        vector<int> ans(m);
+        ll time = 0;
+
+        for (int i = 0; i < m; i++) {
+
+            time = max(time, (ll)i);
+
+            // Release servers that have finished
+            while (!busy.empty() && get<0>(busy.top()) <= time) {
+                auto [finish, weight, index] = busy.top();
+                busy.pop();
+                available.push({weight, index});
+            }
+
+            // Jump to next available time
+            if (available.empty()) {
+                time = get<0>(busy.top());
+
+                while (!busy.empty() &&
+                       get<0>(busy.top()) <= time) {
+                    auto [finish, weight, index] = busy.top();
+                    busy.pop();
+                    available.push({weight, index});
+                }
+            }
+
+            auto [weight, index] = available.top();
+            available.pop();
+
+            ans[i] = index;
+
+            busy.push({time + tasks[i], weight, index});
+        }
+
         return ans;
     }
 };
