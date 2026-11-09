@@ -1,45 +1,48 @@
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+
+using namespace __gnu_pbds;
+typedef tree<int, null_type, std::less<int>, rb_tree_tag,
+             tree_order_statistics_node_update>
+    oset;
+
 class Solution {
 public:
-    vector<int> busiestServers(int k, vector<int>& arr, vector<int>& lo) {
-        set<int> free;
-        int n = arr.size();
-        for (int i = 0; i < 2*k - 1; i ++)
+    vector<int> busiestServers(int k, vector<int>& arrival, vector<int>& load) {
+        oset free;
+        priority_queue<pair<int, int>, vector<pair<int, int>>,
+                       greater<pair<int, int>>>
+            busy;
+        vector<int> requests(k);
+        int n = load.size();
+        for (int i = 0; i < k; i++)
             free.insert(i);
-        vector<int> cnt(k, 0);
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
-        for (int i = 0; i < n; i ++)
-        {
-            int at = arr[i];
-            int load = lo[i];
-            while (!pq.empty() and pq.top().first <= at)
-            {
-                auto tt = pq.top();
-                int server = tt.second;
-                pq.pop();
-                free.insert(server);
-                free.insert(server + k);
+        for (int i = 0; i < n; i++) {
+            int ar = arrival[i];
+            int ld = load[i];
+            while (!busy.empty() && busy.top().first <= ar) {
+                auto [t, idx] = busy.top();
+                busy.pop();
+                free.insert(idx);
             }
-            if (!free.empty()) {
-                int server = (*free.lower_bound(i % k)) % k;
-                free.erase(server % k);
-                free.erase(server % k + k);
+            auto it = free.lower_bound(i % k);
+            if (it == free.end() && !free.empty()) {
+                requests[*free.begin()]++;
+                busy.push({ar + ld, *free.begin()});
+                free.erase(free.begin());
 
-                cnt[server] ++;
-                pq.push({at + load, server});
+            } else if (it != free.end()) {
+                requests[*it]++;
+                busy.push({ar + ld, *it});
+                free.erase(it);
             }
         }
-        int mv = -1;
-        vector<int> res;
-        for (int i = 0; i < k; i ++)
-        {
-            if (cnt[i] > mv)
-            {
-                mv = cnt[i];
-                res = {i};
-            }
-            else if (cnt[i] == mv)
-                res.push_back(i);
+        int ans = *ranges::max_element(requests);
+        vector<int> ids;
+        for (int i = 0; i < k; i++) {
+            if (ans == requests[i])
+                ids.push_back(i);
         }
-        return res;
+        return ids;
     }
 };
