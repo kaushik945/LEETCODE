@@ -1,15 +1,8 @@
-#include <ext/pb_ds/assoc_container.hpp>
-#include <ext/pb_ds/tree_policy.hpp>
-
-using namespace __gnu_pbds;
-typedef tree<int, null_type, std::less<int>, rb_tree_tag,
-             tree_order_statistics_node_update>
-    oset;
 
 class Solution {
 public:
     vector<int> busiestServers(int k, vector<int>& arrival, vector<int>& load) {
-        oset free;
+        set<int> free;
         priority_queue<pair<int, int>, vector<pair<int, int>>,
                        greater<pair<int, int>>>
             busy;
