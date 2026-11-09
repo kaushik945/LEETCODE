@@ -1,41 +1,56 @@
 
 class Solution {
 public:
-    vector<int> busiestServers(int k, vector<int>& arrival, vector<int>& load) {
+    vector<int> busiestServers(int k, vector<int>& arrival,
+                               vector<int>& load) {
         set<int> free;
-        priority_queue<pair<int, int>, vector<pair<int, int>>,
-                       greater<pair<int, int>>>
-            busy;
-        vector<int> requests(k);
-        int n = load.size();
+        using pii = pair<int, int>;
+
+        priority_queue<pii, vector<pii>, greater<pii>> busy;
+
+        vector<int> requests(k, 0);
+
         for (int i = 0; i < k; i++)
             free.insert(i);
+
+        int n = arrival.size();
+
         for (int i = 0; i < n; i++) {
             int ar = arrival[i];
-            int ld = load[i];
-            while (!busy.empty() && busy.top().first <= ar) {
-                auto [t, idx] = busy.top();
-                busy.pop();
-                free.insert(idx);
-            }
-            auto it = free.lower_bound(i % k);
-            if (it == free.end() && !free.empty()) {
-                requests[*free.begin()]++;
-                busy.push({ar + ld, *free.begin()});
-                free.erase(free.begin());
 
-            } else if (it != free.end()) {
-                requests[*it]++;
-                busy.push({ar + ld, *it});
-                free.erase(it);
+            // Release servers that have completed their requests
+            while (!busy.empty() && busy.top().first <= ar) {
+                auto [endTime, server] = busy.top();
+                busy.pop();
+                free.insert(server);
             }
+
+            // Drop request if every server is busy
+            if (free.empty())
+                continue;
+
+            // Find the next available server
+            auto it = free.lower_bound(i % k);
+
+            // Wrap around if necessary
+            if (it == free.end())
+                it = free.begin();
+
+            int server = *it;
+
+            requests[server]++;
+            busy.push({ar + load[i], server});
+            free.erase(it);
         }
-        int ans = *ranges::max_element(requests);
-        vector<int> ids;
+
+        int mx = *max_element(requests.begin(), requests.end());
+
+        vector<int> ans;
         for (int i = 0; i < k; i++) {
-            if (ans == requests[i])
-                ids.push_back(i);
+            if (requests[i] == mx)
+                ans.push_back(i);
         }
-        return ids;
+
+        return ans;
     }
 };
