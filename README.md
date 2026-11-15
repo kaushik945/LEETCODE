@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kaushik945/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushik945/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kaushik945/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kaushik945/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/kaushik945/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kaushik945/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/kaushik945/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/kaushik945/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kaushik945/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaushik945/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaushik945/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kaushik945/LEETCODE/tree/master/3620-network-recovery-pathways) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kaushik945/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushik945/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kaushik945/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kaushik945/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2081-sum-of-k-mirror-numbers](https://github.com/kaushik945/LEETCODE/tree/master/2081-sum-of-k-mirror-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kaushik945/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaushik945/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/kaushik945/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaushik945/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kaushik945/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kaushik945/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kaushik945/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaushik945/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kaushik945/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
