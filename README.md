@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaushik945/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kaushik945/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/kaushik945/LEETCODE/tree/master/2047-number-of-valid-words-in-a-sentence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kaushik945/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kaushik945/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kaushik945/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kaushik945/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/kaushik945/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/kaushik945/LEETCODE/tree/master/0068-text-justification) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kaushik945/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kaushik945/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Design
 |  |
 | ------- |
