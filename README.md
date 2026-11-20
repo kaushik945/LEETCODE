@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2747-count-zero-request-servers](https://github.com/kaushik945/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kaushik945/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kaushik945/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kaushik945/LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kaushik945/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaushik945/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/kaushik945/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaushik945/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kaushik945/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kaushik945/LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaushik945/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaushik945/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kaushik945/LEETCODE/tree/master/3620-network-recovery-pathways) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2333-minimum-sum-of-squared-difference](https://github.com/kaushik945/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kaushik945/LEETCODE/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2747-count-zero-request-servers](https://github.com/kaushik945/LEETCODE/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kaushik945/LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kaushik945/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaushik945/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kaushik945/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
