@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2747-count-zero-request-servers](https://github.com/kaushik945/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kaushik945/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaushik945/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kaushik945/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kaushik945/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kaushik945/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kaushik945/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kaushik945/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kaushik945/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kaushik945/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kaushik945/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kaushik945/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kaushik945/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kaushik945/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kaushik945/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaushik945/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaushik945/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kaushik945/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaushik945/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kaushik945/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kaushik945/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kaushik945/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1254-number-of-closed-islands](https://github.com/kaushik945/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaushik945/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kaushik945/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kaushik945/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaushik945/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kaushik945/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kaushik945/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kaushik945/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kaushik945/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
