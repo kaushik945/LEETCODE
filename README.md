@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaushik945/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2747-count-zero-request-servers](https://github.com/kaushik945/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kaushik945/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kaushik945/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kaushik945/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Array
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3331-find-subtree-sizes-after-changes](https://github.com/kaushik945/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaushik945/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kaushik945/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kaushik945/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kaushik945/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kaushik945/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kaushik945/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kaushik945/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaushik945/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaushik945/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kaushik945/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kaushik945/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kaushik945/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kaushik945/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1291-sequential-digits](https://github.com/kaushik945/LEETCODE/tree/master/1291-sequential-digits) |
 | [2081-sum-of-k-mirror-numbers](https://github.com/kaushik945/LEETCODE/tree/master/2081-sum-of-k-mirror-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kaushik945/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kaushik945/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kaushik945/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kaushik945/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/kaushik945/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/kaushik945/LEETCODE/tree/master/0204-count-primes) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaushik945/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaushik945/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kaushik945/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kaushik945/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
